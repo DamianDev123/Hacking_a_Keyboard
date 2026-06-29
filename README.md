@@ -1,8 +1,7 @@
-# Orpheuspad
+# Hacking_a_Keyboard
 
-Orpheuspad is a 4 key macropad with a rotary encoder, OLED display, and WS2812B LEDs. It runs QMK firmware and serves as a reference implementation for the Hackpad YSWS, demonstrating a full set of common macropad features.
+Hacking_a_Keyboard is a 9 key macropad with a OLED display, and WS2812B LEDs. It runs KMK firmware.
 
-It acts as both a functional device and a design reference for future hackpad-style projects.
 
 ---
 
