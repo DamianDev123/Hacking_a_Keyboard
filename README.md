@@ -34,7 +34,7 @@ Schematic:
 <img width="300" alt="Screenshot 2026-06-29 at 8 33 09 AM" src="https://github.com/user-attachments/assets/933b5d8c-a4d2-4527-a1f2-f6e119dcf03c" />
 
 PCB:
-<img width="315" height="273" alt="Screenshot 2026-06-29 at 8 32 51 AM" src="https://github.com/user-attachments/assets/4c265c80-e79d-40e8-99fa-103e1bbcdd90" />
+<img width="300" height="273" alt="Screenshot 2026-06-29 at 8 32 51 AM" src="https://github.com/user-attachments/assets/4c265c80-e79d-40e8-99fa-103e1bbcdd90" />
 ---
 
 ## Firmware Overview:
